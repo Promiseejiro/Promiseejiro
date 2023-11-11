@@ -4,7 +4,6 @@
 
 <p>A tech savant with mastery of contemporary tools and technologies, fashioning software solutions that prioritize seamless user experiences and improve lives.</p>
 
-[Checkout my portfolio  ](https://emosivbepromise.vercel.app/)
 
 <div>Developer of 
 
