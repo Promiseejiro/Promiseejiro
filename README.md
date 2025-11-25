@@ -9,8 +9,8 @@ technologies, and a commitment to excellence, I excel in collaborative environme
 developing solutions that not only meet but exceed expectations.</p>
 
 
-<p>Hit me up to get connected at     
-  
-[Email: promiseejiro43@gmail.com](promiseejiro43@gmail.com)
-[Porffolio](https://emosivbepromise.vercel.app/)
-</p> 
+<div>
+<p>Hit me up to get connected at </p>    
+<p>[Email: promiseejiro43@gmail.com](promiseejiro43@gmail.com)</p>
+<p>[Porffolio](https://emosivbepromise.vercel.app/)</p>
+</div> 
