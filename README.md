@@ -1,7 +1,5 @@
 <h5>Hi there 👋, I'm Emosivbe Promise.</h5>
 
-[Porffolio](https://emosivbepromise.vercel.app/)
-
 <p>
   Software engineer | Self taught | Building Scalable and high performance software applications
 I'm a results-driven Software Developer with 4+ years of experience crafting full-scale tech solutions. I
@@ -14,4 +12,5 @@ developing solutions that not only meet but exceed expectations.</p>
 <p>Hit me up to get connected at     
   
 [Email: promiseejiro43@gmail.com](promiseejiro43@gmail.com)
+[Porffolio](https://emosivbepromise.vercel.app/)
 </p> 
