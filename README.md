@@ -1,16 +1,34 @@
-<h5>Hi there 👋, I'm Emosivbe Promise.</h5>
+<h3 align="center">Hi there 👋, I'm Emosivbe Promise</h3>
 
-<p>
-  Software engineer | Self taught | Building Scalable and high performance software applications
-I'm a results-driven Software Developer with 4+ years of experience crafting full-scale tech solutions. I
-specialize in transforming complex ideas into reality by building software that prioritizes seamless user
-experiences and delivers tangible value. Known for a strong work ethic, relentless curiosity for new
-technologies, and a commitment to excellence, I excel in collaborative environments and am passionate about
-developing solutions that not only meet but exceed expectations.</p>
+<h4 align="center">Software Engineer | Full-Stack Developer | Building Scalable Solutions</h4>
 
+---
 
-<div>
-<p>Hit me up to get connected at </p>    
-<p>[Email: promiseejiro43@gmail.com](promiseejiro43@gmail.com)</p>
-<p>[Porffolio](https://emosivbepromise.vercel.app/)</p>
-</div> 
+### 🚀 About Me
+
+I'm a results-driven Software Developer with **4+ years** of experience crafting full-scale tech solutions. I specialize in transforming complex ideas into reality by building software that prioritizes seamless user experiences and delivers tangible value.
+
+- 🔭 I’m currently working on **high-performance web applications**
+- 🌱 I’m constantly learning and exploring **new technologies and architectures**
+- 💡 Passionate about **clean code, scalability, and user-centric design**
+- 🎯 Known for **strong work ethic and commitment to excellence**
+- 🤝 Excel in **collaborative environments** and thrive on **challenging projects**
+
+---
+
+### 📫 Get In Touch
+
+[![Email](https://img.shields.io/badge/Email-promiseejiro43@gmail.com-blue?style=flat-square&logo=gmail)](mailto:promiseejiro43@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-green?style=flat-square&logo=vercel)](https://emosivbepromise.vercel.app/)
+
+---
+
+### 💻 Tech Stack
+
+```javascript
+const skills = {
+  frontend: ["React", "Next.js", "TypeScript", "Redux", "HTML/CSS", "Tailwind CSS"],
+  backend: ["Node.js", "Express", "NestJS", "Python"],
+  databases: ["PostgreSQL", "MongoDB", "SQLite"],
+  tools: ["Prisma", "TypeORM", "Git", "Docker"]
+};
