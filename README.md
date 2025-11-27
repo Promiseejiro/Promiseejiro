@@ -1,6 +1,6 @@
 <h3 align="left">Hi there 👋, I'm Emosivbe Promise</h3>
 
-<h4 align="left">Software Engineer | Full-Stack Developer | Building Scalable Solutions</h4>
+<h4 align="left">Software Engineer | Building Scalable Solutions</h4>
 
 ---
 
