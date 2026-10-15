@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I'm a results-driven Software Developer with **4+ years** of experience crafting full-scale tech solutions. I specialize in transforming complex ideas into reality by building software that prioritizes seamless user experiences and delivers tangible value.
+I'm a results-driven Software Developer with **5+ years** of experience crafting full-scale tech solutions. I specialize in transforming complex ideas into reality by building software that prioritizes seamless user experiences and delivers tangible value.
 
 - 🔭 I’m currently working on **high-performance web applications**
 - 🌱 I’m constantly learning and exploring **new technologies and architectures**
